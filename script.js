@@ -19,10 +19,10 @@ const LETTER = {
    ========================================================= */
 const ASK = {
   question: "I'm really sorry, my love. Please forgive me.",
-  note: "There's a letter waiting for you, along with a few flowers.",
+  note: "There's a letter waiting for you mylove.",
   yes: "Yes",
-  no: ["No", "Are you sure?", "Think again", "Please?", "I'll be good, I promise",
-       "That one hurts", "Wrong button", "Come on, love", "Just say yes"],
+  no: ["No", "Sure naka ana?", "Hunahunaa og maayo love", "Please?", "Mag binuotan nako promise love",
+       "Sakita sad ana love oi", "Oi ayaw ni pindota", "Tarong ara love", "Pindot nalang gud yes"],
 };
 
 /* =========================================================
